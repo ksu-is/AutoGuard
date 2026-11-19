@@ -17,3 +17,10 @@ I plan to use a similar approach to implement VIN decoding in AutoGuard. However
 
 ### Next Steps
 My next goal is to begin developing AutoGuard's basic Python structure and implement VIN decoding.
+## Sprint 2: Development Plan
+
+-  Set up the AutoGuard Python program — Jarod
+-  Create VIN input validation — Jarod
+-  Connect to the NHTSA API — Jarod
+-  Test VIN decoding — Jarod
+-  Document results and update README.md — Jarod
